@@ -26,7 +26,7 @@ class Model_Finder:
                                 Output: The model with the best parameters
                                 On Failure: Raise Exception
 
-                                Written By: Samir
+                                Written By: Samir Shaikh
                                 
                                 Version: 1.0
                                 Revisions: None
